@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## My name is Aduramimo Oludare, a software developer from Lagos, Nigeria.
+### My name is Aduramimo Oludare, a software developer from Lagos, Nigeria.
 
-## I am passionate about backend development
+### I am passionate about backend development
 
-## - 🌱 I’m currently learning Laravel and the general MVC architerture of software development.
+### 🌱 I’m currently learning Laravel and the general MVC architerture of software development.
 
 <!--
 **dreywandowski/dreywandowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Node JS/Express
 - 👯 I’m looking to collaborate on Sequelize ORM, ES6 and more
 - 💬 Ask me about PHP, Laravel, Backend development
-- 📫 How to reach me: aduramimo@gmail.com, http:dreywandowski.xyz
+- 📫 How to reach me: aduramimo@gmail.com, http://dreywandowski.xyz
 
 
 

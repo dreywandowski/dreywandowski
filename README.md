@@ -1,14 +1,8 @@
-### Hi there 👋
-
-### My name is Aduramimo Oludare, a software developer from Lagos, Nigeria.
-
-
-### I am passionate about backend development.
+Hi there 👋
+My name is Aduramimo Oludare, a software developer from Lagos, Nigeria.
 
 - 🔭 I’m currently working on CompleteHR, an employee management system
-- 🌱 I’m currently learning Node JS/Express
-- 👯 I’m looking to collaborate on Sequelize ORM, ES6 and more
-- 💬 Ask me about PHP, Laravel, Backend development
+- 💬 Ask me about PHP, Laravel, Node JS and Backend development
 - 📫 How to reach me: aduramimo@gmail.com, http://dreywandowski.ng
 
 
